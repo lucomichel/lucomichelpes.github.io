@@ -1,0 +1,35 @@
+#cont{
+    text-align: center;
+
+
+}
+h1{
+    text-align: center;
+    color: mintcream;
+    font-family: fantasy;
+}
+
+body{
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+}
+.btn{
+    text-align: center;
+    color: mintcream;
+    background-color: rgb(88, 88, 88); 
+    font-size: 20px;
+    border: solid transparent;
+    border-radius: 10px;
+    height: 60px;
+    width: 8rem;
+    margin-right: 6px;
+    box-shadow: black 0px 6px 10px;
+}
+
+.btn:hover{
+    background-color: rgb(78, 78, 78); 
+
+}
+.btn:active{
+    background-color: black;
+}
